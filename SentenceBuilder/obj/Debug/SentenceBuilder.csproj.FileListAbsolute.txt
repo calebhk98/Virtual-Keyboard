@@ -1,0 +1,19 @@
+\\studentfs\studentfiles$\ckirschbaum\my documents\visual studio 2015\Projects\SentenceBuilder\SentenceBuilder\bin\Debug\SentenceBuilder.exe.config
+\\studentfs\studentfiles$\ckirschbaum\My Documents\Visual Studio 2015\Projects\SentenceBuilder\SentenceBuilder\bin\Debug\SentenceBuilder.exe
+\\studentfs\studentfiles$\ckirschbaum\My Documents\Visual Studio 2015\Projects\SentenceBuilder\SentenceBuilder\bin\Debug\SentenceBuilder.pdb
+\\studentfs\studentfiles$\ckirschbaum\My Documents\Visual Studio 2015\Projects\SentenceBuilder\SentenceBuilder\obj\Debug\SentenceBuilder.csprojResolveAssemblyReference.cache
+\\studentfs\studentfiles$\ckirschbaum\My Documents\Visual Studio 2015\Projects\SentenceBuilder\SentenceBuilder\obj\Debug\SentenceBuilder.Form1.resources
+\\studentfs\studentfiles$\ckirschbaum\My Documents\Visual Studio 2015\Projects\SentenceBuilder\SentenceBuilder\obj\Debug\SentenceBuilder.Properties.Resources.resources
+\\studentfs\studentfiles$\ckirschbaum\My Documents\Visual Studio 2015\Projects\SentenceBuilder\SentenceBuilder\obj\Debug\SentenceBuilder.csproj.GenerateResource.Cache
+\\studentfs\studentfiles$\ckirschbaum\My Documents\Visual Studio 2015\Projects\SentenceBuilder\SentenceBuilder\obj\Debug\SentenceBuilder.exe
+\\studentfs\studentfiles$\ckirschbaum\My Documents\Visual Studio 2015\Projects\SentenceBuilder\SentenceBuilder\obj\Debug\SentenceBuilder.pdb
+C:\Users\caleb\Desktop\School\programs\SentenceBuilder\SentenceBuilder\bin\Debug\SentenceBuilder.exe.config
+C:\Users\caleb\Desktop\School\programs\SentenceBuilder\SentenceBuilder\bin\Debug\SentenceBuilder.exe
+C:\Users\caleb\Desktop\School\programs\SentenceBuilder\SentenceBuilder\bin\Debug\SentenceBuilder.pdb
+C:\Users\caleb\Desktop\School\programs\SentenceBuilder\SentenceBuilder\obj\Debug\SentenceBuilder.csprojAssemblyReference.cache
+C:\Users\caleb\Desktop\School\programs\SentenceBuilder\SentenceBuilder\obj\Debug\SentenceBuilder.Form1.resources
+C:\Users\caleb\Desktop\School\programs\SentenceBuilder\SentenceBuilder\obj\Debug\SentenceBuilder.Properties.Resources.resources
+C:\Users\caleb\Desktop\School\programs\SentenceBuilder\SentenceBuilder\obj\Debug\SentenceBuilder.csproj.GenerateResource.cache
+C:\Users\caleb\Desktop\School\programs\SentenceBuilder\SentenceBuilder\obj\Debug\SentenceBuilder.csproj.CoreCompileInputs.cache
+C:\Users\caleb\Desktop\School\programs\SentenceBuilder\SentenceBuilder\obj\Debug\SentenceBuilder.exe
+C:\Users\caleb\Desktop\School\programs\SentenceBuilder\SentenceBuilder\obj\Debug\SentenceBuilder.pdb
